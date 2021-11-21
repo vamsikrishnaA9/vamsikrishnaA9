@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vamsikrishnaA9
+- 👋 Hi, I’m @Vamsi Krishna
 - 👀 I’m interested in Embedded software design.
 - 🌱 I’m currently working on STM32F103 and embedded linux
 - 💞️ I’m looking to collaborate on Stm32 based projects
